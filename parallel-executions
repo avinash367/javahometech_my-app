@@ -11,4 +11,5 @@ node{
        }
     },
     failFast: true
+    fail
 }
